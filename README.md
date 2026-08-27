@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="AvnishR4j's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hi, I'm Avnish Raj
 
 I'm the creator of [Lifeline](https://github.com/AvnishR4j/lifeline), an open-source CLI that keeps AI-assisted development moving when a coding agent reaches its usage limit.
